@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Desenhando sua organização com folder e projetos e grupos de acessos](https://web.dio.me/lab/desenhando-sua-organizacao-com-folder-e-projetos-e-grupos-de-acessos/learning/1777c56a-8abe-47f7-b8b2-a315876e1025)[Entendendo o desafio](https://web.dio.me/lab/desenhando-sua-organizacao-com-folder-e-projetos-e-grupos-de-acessos/learning/ce57b589-4e88-49f3-a701-2a46731beeb8)
+- [Desenhando sua organização com folder e projetos e grupos de acessos](https://web.dio.me/lab/desenhando-sua-organizacao-com-folder-e-projetos-e-grupos-de-acessos/learning/1777c56a-8abe-47f7-b8b2-a315876e1025)
+- [Entendendo o desafio](https://web.dio.me/lab/desenhando-sua-organizacao-com-folder-e-projetos-e-grupos-de-acessos/learning/ce57b589-4e88-49f3-a701-2a46731beeb8)
 
 # Entendendo o Desafio
 
